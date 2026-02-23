@@ -1,0 +1,8 @@
+Add
+git add .
+
+Commit
+git commit -m "Second Commit"
+
+Push
+git push -u origin main
