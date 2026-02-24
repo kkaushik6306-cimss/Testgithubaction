@@ -13,3 +13,5 @@ def test_sub():
 def multiply():
     assert multiply(5,3)==15
 
+def print_hello():
+    print('Hello')
