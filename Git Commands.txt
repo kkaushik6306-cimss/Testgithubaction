@@ -1,3 +1,6 @@
+Pull
+git pull
+
 Add
 git add .
 
